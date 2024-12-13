@@ -11,7 +11,7 @@ export default defineConfig({
   },
          
   plugins: [react()],
-  base: 'https://marceceru.github.io/homepage'
+  base: 'https://MarceCeru.github.io/homepage'
 
 
 })
